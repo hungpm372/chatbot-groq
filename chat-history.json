@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "role": "HUMAN",
+    "content": "alo"
+  },
+  {
+    "role": "AI",
+    "content": "Bạn có muốn tôi giúp gì cho bạn không?"
+  },
+  {
+    "role": "HUMAN",
+    "content": "đặt tour"
+  },
+  {
+    "role": "AI",
+    "content": "Tôi có thể giúp bạn đặt tour du lịch. Bạn có muốn tôi giúp gì cho bạn không?\n\nBạn muốn đặt tour du lịch cho:\n\n- Một địa điểm cụ thể (ví dụ: Hà Nội, Sài Gòn, Đà Nẵng,...)\n- Một loại hình tour (ví dụ: du lịch gia đình, du lịch nhóm, du lịch cá nhân,...)\n- Một giá cả cụ thể (ví dụ: 3.000.000 VND, 5.000.000 VND,...)\n\nHãy cho tôi biết thêm thông tin để tôi có thể giúp bạn tốt hơn!"
+  }
+]
